@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/mina-core-2.0.13.jar" sourcepath="C:/workspaces/wp_java/classourcepath/apache-mina-2.0.13-src.zip"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/mybatis-3.3.1.jar" sourcepath="C:/workspaces/wp_java/classourcepath/mybatis-3-mybatis-3.3.1.zip"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/opencsv-3.7.jar" sourcepath="C:/workspaces/wp_java/classpath/opencsv-source-e0981d6fc6264680bc38874cfdde83e1ba9ae8a0.zip"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/log4j-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/flex-messaging-common-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspaces/wp_java/classpath/flex-messaging-core-3.2.0.jar" sourcepath="C:/workspaces/wp_java/classourcepath/blazeds-core-3.2.0.3978-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
